@@ -1,5 +1,3 @@
-# Writing the generated README content to a file
-readme_content = """
 # Portfolio Project
 
 Welcome to my Portfolio Project! This project showcases my skills, experience, and selected works.
