@@ -17,6 +17,8 @@ Welcome to my Portfolio Project! This project showcases my skills, experience, a
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [TypeScript](https://www.typescriptlang.org)
 - [React](https://reactjs.org/)
+- [Express](https://expressjs.com)
+- [Socket.IO](https://socket.io)
 
 ## Setup Instructions
 1. Clone the repository:
