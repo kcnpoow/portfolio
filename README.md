@@ -19,6 +19,7 @@ Welcome to my Portfolio Project! This project showcases my skills, experience, a
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com)
 - [Socket.IO](https://socket.io)
+- [Mongoose](https://mongoosejs.com)
 
 ## Setup Instructions
 1. Clone the repository:
