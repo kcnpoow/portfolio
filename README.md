@@ -26,7 +26,6 @@ Welcome to my Portfolio Project! This project showcases my skills, experience, a
    ```bash
    git clone https://github.com/your-username/portfolio-project.git
 
-2. Clone the repository:
+2. Run the project in server and client:
    ```bash
-   
    npm run start
